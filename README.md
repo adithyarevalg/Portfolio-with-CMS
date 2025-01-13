@@ -1,2 +1,2 @@
-# Portfolio-with-CMS
+# EazyByts
 Internship project at EazyByts
